@@ -4,6 +4,7 @@ Smart Train Dispatching project MVP using Excel VBA connected to Oracle DB. For 
 This repo is created for demonstrating the Smart Train Dispatching project.
 
 **Description of the project**
+
 Smart Train Dispatching System is developed for one the world’s largest iron mines’ internal rail network
 
 - The system leverages real-time train positioning data together with data about excavators, production plans etc. to predict possible bottlenecks and advises human dispatchers on optimal train distribution to reduce unproductive train time
@@ -14,9 +15,11 @@ Smart Train Dispatching System is developed for one the world’s largest iron m
 
 - Used technologies: Visual Basic for Applications, Oracle DB, Java
 
-**Files in the repo**
+**File list**
+
+
 1. Software Description (machine translated).pdf - Detailed description of the software. Curated to remove sensitive information and machine translated from Russian to English for demonstration purposes.
    
 2. User Manual (machine translated).pdf - User manual for the users of the system. Curated to remove sensitive information and machine translated from Russian to English for demonstration purposes.
 
-3/4. Описание ПО ИСД.pdf and Руководство пользователя v2.pdf - Original Russian language versions of the documents. Curated to remove sensitive information.
+3. Описание ПО ИСД.pdf and Руководство пользователя v2.pdf - Original Russian language versions of the documents. Curated to remove sensitive information.
